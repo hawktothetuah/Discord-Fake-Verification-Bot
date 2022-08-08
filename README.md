@@ -83,5 +83,4 @@ General Informations:
 ![verification_example.png](https://cdn.discordapp.com/attachments/992909137442766878/1004455727517143170/unknown.png?size=4096)
 
 
-## Credits
-SenT.
+
