@@ -69,7 +69,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/SenT/Fake-Verification-Bot.git
+$ git clone https://github.com/FollowToS/Discord-Fake-Verification-Bot
 $ python -m pip install -r requirements.txt
 $ python main.py
 ```
