@@ -74,9 +74,7 @@ $ python -m pip install -r requirements.txt
 $ python main.py
 ```
 
-## Additional Informations
-General Informations:
-- If you find any malfunction, contact me on Discord: SenT#0417.
+
 
 
 ## Example
