@@ -6,7 +6,7 @@
     "command_name": "start",
     
     "give_role": true,
-    "role_name": "ROLE-NAME-HERE",
+    "role_name": "ROLE-NAME-HERE", #Can take the value: true or false
 
     "mass_dm": 0,
     "message": "MESSAGE-HERE"
