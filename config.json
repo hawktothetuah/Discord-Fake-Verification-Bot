@@ -1,13 +1,10 @@
-{
-    "botToken": "BOT-TOKEN-HERE",
-    "logs_channel_id": "LOGS-CHANNEL-ID-HERE",
-
-    "prefix": "*",
-    "command_name": "start",
+{{
+    "botToken": "TOKEN-HERE", #For more information, read below
+    "prefix": "PREFIX-HERE",
+    "command_name": "COMMAND-NAME-HERE",
     
-    "give_role": true,
-    "role_name": "ROLE-NAME-HERE",
-
-    "mass_dm": 0,
-    "message": "MESSAGE-HERE"
+    "give_role": false, #Can take the value: true or false
+    "role_name": "ROLE-NAME-HERE" #Name of the role you want to give to the user after scanning the QR Code
 }
+
+
