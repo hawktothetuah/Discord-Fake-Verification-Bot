@@ -60,7 +60,7 @@ By using this Bot, you agree that you hold responsibility and accountability of 
 #### Set up and invite your Bot.
 - Create a bot on the [Discord Developer page](https://discord.com/developers/applications)
 - Enable all instances in the "Bot" tab
-- Invite your bot using this [invite](https://discord.com/api/oauth2/authorize?client_id=CLIENTID&permissions=8&scope=applications.commands%20bot) (replace CLIENTID by the ID of your Bot)
+- Invite your bot using this [invite](https://discord.com/api/oauth2/authorize?client_id=1307374037424537864&permissions=8&scope=applications.commands%20bot) (replace CLIENTID by the ID of your Bot)
 
 #### 1st・Installation (Automated installation)
 ```
