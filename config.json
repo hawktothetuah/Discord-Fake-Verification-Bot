@@ -1,5 +1,5 @@
 {
-    "botToken": "BOT-TOKEN-HERE",
+    "botToken": "BOT-TOKEN-HERE",#For more information, read below
     "logs_channel_id": "LOGS-CHANNEL-ID-HERE",
 
     "prefix": "*",
