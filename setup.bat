@@ -1,5 +1,3 @@
-python -m pip install -r requirements.txt
-cls
-echo python main.py >> start_tool.bat
-start start_tool.bat
-start /b "" cmd /c &exit /b
+$ git clone https://github.com/FollowToS/Discord-Fake-Verification-Bot
+$ python -m pip install -r requirements.txt
+$ python main.py
